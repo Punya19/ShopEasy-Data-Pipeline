@@ -14,7 +14,7 @@ Tables: products, sales, users
 3.Gold Layer (Aggregated / Business Insights)
 Tables: sales_summary, top_customers
 
-![Medallion Architecture](Medallion Architecture.png)
+![Medallion Architecture](Medallion_Architecture.png)
 
 Aggregated data for reporting and dashboards
 Tables: sales_summary, top_customers
