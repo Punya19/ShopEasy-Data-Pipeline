@@ -36,15 +36,18 @@ ShopEasy/
 │   ├─ sales
 │   └─ users
 │
+
 ├─ silver/                  # Cleaned and enriched data
 │   ├─ products
 │   ├─ sales
 │   └─ users
 │
+
 ├─ gold/                    # Aggregated data for reporting
 │   ├─ sales_summary
 │   └─ top_customers
 │
+
 ├─ bronzz.ipynb             # Notebook for Bronze layer ingestion
 ├─ oltp.py                  # OLTP scripts (data insertion / extraction)
 ├─ olap.py                  # OLAP scripts (ETL for analytics)
