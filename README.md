@@ -74,7 +74,7 @@ Modular and easy to extend for new datasets
 
 📊 Analytics / Reporting
 Aggregated data in Gold layer can be used in Power BI
-![Power BI Dashboard](Screenshot 2026-01-19 005459.png) ![Power BI Dashboard](Screenshot 2026-01-19 005613.png)
+![Power BI Dashboard](dashboard_1) ![Power BI Dashboard](dashboard_2)![Power BI Dashboard](dashboard_3)
 
 
 
