@@ -2,16 +2,19 @@
 A full-stack data engineering project demonstrating an end-to-end data pipeline using OLTP, OLAP, and Medallion Architecture. This project ingests raw sales data, cleans and transforms it, and aggregates it for analytics and reporting.
 🎯 Project Overview
 The ShopEasy project simulates an e-commerce data workflow with multiple layers:
+
 1.Bronze Layer (Raw Data)
 Raw CSV/transaction data ingested without transformations
 Tables: categories, dates, products, sales, users
+
 2.Silver Layer (Cleaned / Enriched Data)
 Cleansed and standardized data for analytics
 Tables: products, sales, users
+
 3.Gold Layer (Aggregated / Business Insights)
 Tables: sales_summary, top_customers
-![Medallion Architecture](<img width="449" height="638" alt="Medallion Architecture" src="https://github.com/user-attachments/assets/e7c4876a-2fb7-4f1f-97dd-af85c976ddb7" />
-)
+
+![Medallion Architecture]()
 
 Aggregated data for reporting and dashboards
 Tables: sales_summary, top_customers
