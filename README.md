@@ -31,9 +31,13 @@ ShopEasy/
 │
 ├─ bronze/                  # Raw ingested data
 │   ├─ categories
+
 │   ├─ dates
+
 │   ├─ products
+
 │   ├─ sales
+
 │   └─ users
 │
 
